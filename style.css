@@ -5,7 +5,7 @@ h1{
     font-family: "Pixelify Sans", sans-serif;
 }
 
-span{
+h1 span{
     color: yellowgreen
 }
 
@@ -14,7 +14,19 @@ body{
     color: aliceblue;
     font-family: "pixelify Sans", sans-serif;
     text-align: center;
-    
+
 }
+
+#dias_restantes{
+    color: greenyellow;
+    font-size: 50px;
+}
+
+
+
+
+
+
+
 ;
 
